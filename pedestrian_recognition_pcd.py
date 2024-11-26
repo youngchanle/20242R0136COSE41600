@@ -172,7 +172,7 @@ def analyze_json_files(directory):
     return total_json_count, non_empty_json_count
 
 # 사용 예시
-directory_path = "/Users/iyeongchan/Desktop/Projrct/COSE416_HW1_tutorial/data/01_3D/json"  # A폴더 경로
+directory_path = "/Users/iyeongchan/Desktop/Projrct/COSE416_HW1_tutorial/data/"  # A폴더 경로
 total_count, non_empty_count = analyze_json_files(directory_path)
 
 if total_count > 0:
