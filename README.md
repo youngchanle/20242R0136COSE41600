@@ -89,6 +89,7 @@ Design and implement an algorithm for effectively detecting pedestrians using 3D
   - Identifying lying down individuals
   - Detecting people hidden under trees
   - Handling various walking postures and styles
+![resultimg](/img.png)
 
 *Note: Error rate calculated as (number of PCDs with selected objects) / (total PCD count), which might differ from actual values*
 
