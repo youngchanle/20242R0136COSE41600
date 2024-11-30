@@ -4,3 +4,4 @@
 PCD1 = "path/to/pcd/files/for_pedestrian_detection"  
 PCD2 = "path/to/background/files/or/othre/frame/of/PCD1"
 
+## read PDF file first
